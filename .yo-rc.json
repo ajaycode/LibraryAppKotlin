@@ -1,0 +1,58 @@
+{
+  "generator-jhipster": {
+    "blueprints": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.12.1"
+      }
+    ],
+    "otherModules": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.12.1"
+      }
+    ],
+    "applicationType": "monolith",
+    "baseName": "LibraryAppKotlin",
+    "jhipsterVersion": "7.0.1",
+    "skipClient": false,
+    "skipServer": false,
+    "skipUserManagement": false,
+    "skipCheckLengthOfIdentifier": false,
+    "skipFakeData": false,
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "testFrameworks": ["cypress"],
+    "pages": [],
+    "creationTimestamp": 1633834165924,
+    "serviceDiscoveryType": false,
+    "reactive": false,
+    "authenticationType": "session",
+    "packageName": "com.mycompany.myapp",
+    "serverPort": "8080",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "buildTool": "gradle",
+    "serverSideOptions": [],
+    "websocket": false,
+    "searchEngine": false,
+    "messageBroker": false,
+    "enableSwaggerCodegen": false,
+    "clientFramework": "react",
+    "withAdminUi": true,
+    "clientTheme": "cerulean",
+    "clientThemeVariant": "primary",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "packageFolder": "com/mycompany/myapp",
+    "rememberMeKey": "d7e6c7c971dab0ae0771f3d618b3bcc57622afd55bdb0784f9c8984e1ef5d98c550fdc0b4d50eb2f4ba98df6a935a28d0f3a",
+    "clientPackageManager": "npm",
+    "languages": ["en", "es", "ta", "te"],
+    "entities": ["Publisher", "Author", "Client", "Book", "BorrowedBook"],
+    "lastLiquibaseTimestamp": 1633836332000
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "libraryAppKotlinApp": {
+    "book": {
+      "home": {
+        "title": "Books",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Book-ஐ உருவாக்கு",
+        "createOrEditLabel": "Book -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Books found"
+      },
+      "created": "Book புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Book மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Book நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Book {{ id }}?"
+      },
+      "detail": {
+        "title": "Book"
+      },
+      "id": "ID",
+      "isbn": "Isbn",
+      "name": "Name",
+      "publishYear": "Publish Year",
+      "copies": "Copies",
+      "cover": "Cover",
+      "publisher": "Publisher",
+      "author": "Author"
+    }
+  }
+}
