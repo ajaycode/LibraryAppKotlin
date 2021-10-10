@@ -1,0 +1,28 @@
+{
+  "libraryAppKotlinApp": {
+    "client": {
+      "home": {
+        "title": "Clients",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "కొత్త Client  సృష్టించండి",
+        "createOrEditLabel": "Client సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Clients found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Client సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Client సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Client తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Client {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Client"
+      },
+      "id": "ID",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "address": "Address",
+      "phone": "Phone"
+    }
+  }
+}

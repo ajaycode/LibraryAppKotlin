@@ -1,0 +1,26 @@
+{
+  "libraryAppKotlinApp": {
+    "borrowedBook": {
+      "home": {
+        "title": "Borrowed Books",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Borrowed Book",
+        "createOrEditLabel": "Crear o editar Borrowed Book",
+        "notFound": "Ningún Borrowed Books encontrado"
+      },
+      "created": "Un nuevo Borrowed Book ha sido creado con el identificador {{ param }}",
+      "updated": "Un Borrowed Book ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Borrowed Book ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Borrowed Book {{ id }}?"
+      },
+      "detail": {
+        "title": "Borrowed Book"
+      },
+      "id": "ID",
+      "borrowDate": "Borrow Date",
+      "book": "Book",
+      "client": "Client"
+    }
+  }
+}

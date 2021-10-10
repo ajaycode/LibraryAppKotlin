@@ -1,0 +1,24 @@
+{
+  "libraryAppKotlinApp": {
+    "publisher": {
+      "home": {
+        "title": "Publishers",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Publisher-ஐ உருவாக்கு",
+        "createOrEditLabel": "Publisher -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Publishers found"
+      },
+      "created": "Publisher புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Publisher மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Publisher நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Publisher {{ id }}?"
+      },
+      "detail": {
+        "title": "Publisher"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}
